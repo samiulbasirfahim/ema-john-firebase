@@ -1,0 +1,9 @@
+.form-container{
+    display:flex;
+    justify-content:center;
+
+}
+.form-container form div{
+    display:flex;
+    flex-direction:column;
+}
